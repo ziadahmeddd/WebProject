@@ -121,3 +121,7 @@ hr {
   background-color: firebrick;
   margin: 20px 0;
 }
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
